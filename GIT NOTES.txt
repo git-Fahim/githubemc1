@@ -12,7 +12,7 @@
 	2.git config --global user.email ""  enter your emailid within quotes
 
 
-5.Install Visual studio for practicing git
+5.Install Visualstudio for practicing git
 
 "git clone "" (copy the code link and paste within quotes)" to clone the data from github to our visual studio (.git folder is the brigde that connects
 
