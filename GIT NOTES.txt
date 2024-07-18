@@ -1,0 +1,42 @@
+---------------------------------GIT AND GITHUB--------------------------------
+
+1.first we have to signin to an github
+
+2.Download and Install git
+
+3.After installation of git open command prompt as an administrator and type "git" and enter(git popups will came)
+
+4.Thn configure in command prompt by typing this following code
+	
+	1.git config -- global user.name"    "   ("")-within this quotes we have to give the git name click profile pic in github to get name
+	2.git config --global user.email ""  enter your emailid within quotes
+
+
+5.Install Visual studio for practicing git
+
+"git clone "" (copy the code link and paste within quotes)" to clone the data from github to our visual studio (.git folder is the brigde that connects
+
+		git and git hub)
+
+	whileuse this two folders are created in backend 1.copyfolder 2.working folder
+ 
+
+anymodification add commit push--- this is procedure
+git status
+git add "filename.extension"--------> when ever we use this command the file will move from working folder to staging area 
+git commit -m"commit msg"------------> by commit this staging area file will move to copy folder
+git push origin main to push the data from here to github----> to move the data from local to git repo
+cd "foldername"-for change directory
+cd .. it will move to previous folders
+
+
+
+next one we ill create a newfolder in local system. 
+
+By use "git init" to create the local git repo.   .git folder is not present previously
+
+create a repo in github
+
+
+
+
