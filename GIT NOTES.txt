@@ -40,6 +40,6 @@ create a repo in github
 
 "git checkout" is used to switch between branches.
 
-"git add ." used to add the modification of mutliples changes for example 100 files need to modified means we use this
+"git add ."  used to add the modification of mutliples changes for example 100 files need to modified means we use this
 
 
